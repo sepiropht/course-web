@@ -26,21 +26,8 @@ export default function Lessons({ sections }) {
         <div className="jumbotron">
           <div className="courseInfo">
             <div className="courseInfo-inner">
-              <h1>{courseInfo.title}</h1>
-              <h2>{courseInfo.subtitle}</h2>
-              <div className="author">
-                <div className="image">
-                  <img
-                    src={`${process.env.BASE_URL}/images/author.jpg`}
-                    alt="author image"
-                    className="image"
-                  />
-                </div>
-                <div className="info">
-                  <div className="name">{courseInfo.author.name}</div>
-                  <div className="company">{courseInfo.author.company}</div>
-                </div>
-              </div>
+              <h1>{"Introduction complète"}</h1>
+              <h2>{"au developpement web"}</h2>
             </div>
           </div>
           <div className="courseIcon">

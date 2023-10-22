@@ -4,7 +4,7 @@ description: ""
 
 # La Suite
 
-Parlons de ce que vous allez apprendre tout au long de ce cours : comment écrire des sites web et des applications web. Dans le processus, nous vous enseignerons comment utiliser tous les outils nécessaires pour coder, faire un peu de design, et comment progresser par la suite. À la fin de ce cours, vous pouvez raisonnablement vous attendre à savoir coder un site web à partir de zéro et être prêt à suivre d'autres cours sur le [parcours débutant de Frontend Masters][fem].
+Parlons de ce que vous allez apprendre tout au long de ce cours : comment écrire des sites web et des applications web. Dans le processus, nous vous enseignerons comment utiliser tous les outils nécessaires pour coder, faire un peu de design, et comment progresser par la suite. À la fin de ce cours, vous pouvez raisonnablement vous attendre à savoir coder un site web à partir de zéro.
 
 ## Qu'est-ce que le HTML ?
 

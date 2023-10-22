@@ -2,16 +2,6 @@
 
 ## Description
 
-Brian Holt vous présente lui-même, la sixième version de la Formation Complète à React, et ce que vous pouvez attendre d'apprendre.
-
----
-
-Salut ! Et bienvenue à la septième édition de la Formation Complète au Développement Web v3, enseignée par [Brian Holt][twitter].
-
-![logo du cours](./images/course-icon.png)
-
-> Vous _n'avez pas besoin_ d'avoir suivi les versions précédentes de ce cours pour suivre celui-ci. Il s'agit d'une révision totale du cours que nous effectuons pour le maintenir à jour.
-
 J'ai créé ce cours pour enseigner aux gens comment passer de ne pas savoir coder à écrire leurs premières applications web. Je pense que c'est le meilleur moment de l'histoire pour entrer dans le monde de la programmation, car nos outils sont bien meilleurs qu'auparavant, ce qui signifie que vous pouvez créer des applications puissantes aujourd'hui avec seulement quelques outils. Je code depuis des décennies maintenant, et il me fallait beaucoup de code pour créer une petite application de quiz médiocre. À la fin de ce cours, vous serez capable de coder un clone de Wordle, une application qui vient de se vendre pour des millions de dollars au New York Times.
 
 ## Public cible et prérequis
@@ -24,9 +14,7 @@ Vous devriez avoir une certaine familiarité avec les ordinateurs et Internet. V
 
 Ce cours vous enseignera HTML, CSS et JavaScript. Ces trois éléments sont indispensables pour commencer à créer des applications web modernes. Si vous avez besoin d'aide dans l'une de ces catégories, ce cours devrait vous être utile. Si vous savez déjà coder (en C++ ou Java, par exemple) et que vous souhaitez vous orienter davantage vers le développement front-end, ce cours vous sera également utile.
 
-Ce cours est également destiné à vos amis !! Ce cours, à la fois ce site web et la vidéo, sont gratuits pour tous grâce à l'aimable soutien de [Frontend Masters][fem] ! Gratuit ? Quel est le piège ? Le piège est que Frontend Masters produit du contenu pour aider les développeurs à s'améliorer dans leur travail, et en devenant développeur, vous entrez dans leur public cible. C'est une stratégie astucieuse !
-
-## Configuration
+<!-- ## Configuration
 
 Ce cours fonctionne et a été testé à la fois sur macOS et Windows 10. Il fonctionnera également très bien sur Linux (il vous suffit de suivre les instructions pour macOS). Vous n'avez pas besoin d'un ordinateur particulièrement puissant pour suivre ce cours. 8 Go de RAM suffiront amplement, et vous pourrez probablement vous en sortir avec moins.
 
@@ -35,19 +23,19 @@ Ce cours fonctionne et a été testé à la fois sur macOS et Windows 10. Il fon
   - Police d'écriture : [MonoLisa][monolisa]. N'oubliez pas d'activer les ligatures dans VS Code ! Si vous souhaitez avoir des ligatures sans Dank, jetez un œil à [Cascadia Code][cascadia] de Microsoft.
   - Thème : J'aime simplement Dark+, le thème par défaut de VS Code. Bien que j'aime aussi [Night Owl][night-owl] de Sarah Drasner.
   - Terminal : Je suis récemment revenu à l'utilisation du terminal intégré de macOS. [iTerm2][iterm] est également excellent. Sous Windows, j'apprécie [Windows Terminal][terminal].
-  - Icônes VS Code : l'extension [vscode-icons][icons].
+  - Icônes VS Code : l'extension [vscode-icons][icons]. -->
 
-## Où signaler les problèmes
+<!-- ## Où signaler les problèmes
 
 J'écris ces cours en veillant à ne pas commettre d'erreurs. Cependant, lorsqu'il s'agit d'enseigner plus de dix heures de contenu, les erreurs sont inévitables, que ce soit en matière de grammaire ou de contenu. Cependant, moi (ainsi que l'équipe fantastique de Frontend Masters) corrigeons constamment les erreurs pour que ceux d'entre vous qui suivent après puissent profiter du meilleur produit possible. Si vous repérez une erreur, nous serions ravis de la corriger. La meilleure façon de le faire est de [soumettre une demande d'extraction ou de signaler un problème sur le dépôt GitHub][issues]. Bien que je sois toujours ravi de discuter et de donner des conseils sur les réseaux sociaux, je ne peux pas fournir une assistance technique à tout le monde. De plus, si vous signalez un problème sur GitHub, d'autres personnes pourront trouver la même réponse que celle que vous avez reçue.
 
-Nous parlerons de GitHub à la fin de ce cours si vous n'êtes pas familier avec cet outil.
+Nous parlerons de GitHub à la fin de ce cours si vous n'êtes pas familier avec cet outil. -->
 
-## Qui suis-je
+<!-- ## Qui suis-je
 
 Je m'appelle Brian Holt et je suis chef de produit chez Stripe. Je travaille sur toutes sortes d'outils pour les développeurs, tels que l'extension Stripe pour Visual Studio Code, le CLI Stripe, les SDK Stripe et d'autres outils que les développeurs utilisent pour écrire du code pour Stripe. Avant cela, j'ai travaillé sur Azure et Visual Studio Code chez Microsoft en tant que chef de produit, et avant cela, j'étais développeur JavaScript pendant une décennie, travaillant pour des entreprises comme LinkedIn, Netflix, Reddit et quelques autres start-ups. J'ai écrit _énormément_ de code.
 
-J'ai appris à coder quand j'avais environ 10 ans. Mon frère me faisait écrire du code en C++ avant de me laisser jouer à des jeux vidéo. Cela m'a certainement bien préparé lorsque j'ai commencé à apprendre à coder à l'université, mais laissez-moi vous dire qu'il n'est jamais trop tard pour apprendre à coder. Les compétences nécessaires sont tout à fait accessibles à quiconque a suffisamment de motivation
+J'ai appris à coder quand j'avais environ 10 ans. Mon frère me faisait écrire du code en C++ avant de me laisser jouer à des jeux vidéo. Cela m'a certainement bien préparé lorsque j'ai commencé à apprendre à coder à l'université, mais laissez-moi vous dire qu'il n'est jamais trop tard pour apprendre à coder. Les compétences nécessaires sont tout à fait accessibles à quiconque a suffisamment de motivation -->
 
 ## Attentes
 

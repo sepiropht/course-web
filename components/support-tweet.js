@@ -13,12 +13,7 @@ const SupportTweet = () => {
     return <h3 className="tweet-head">loading …</h3>;
   }
 
-  return (
-    <div className="support-tweet">
-      <h3 className="tweet-head">Some words of encouragement!</h3>
-      <TweetEmbed tweetId={tweet} options={{ conversation: "none" }} />
-    </div>
-  );
+  return <div className="support-tweet"></div>;
 };
 
 export default SupportTweet;
