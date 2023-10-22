@@ -12,6 +12,14 @@
     "twitter": "holtbt"
   },
   "description": "Learn to be a web developer from nothing from industry veteran Brian Holt",
-  "keywords": ["web dev", "web developer", "css", "javascript", "html", "visual studio code", "learn to code"],
-  "productionBaseUrl": "/complete-intro-to-web-dev-v3"
+  "keywords": [
+    "web dev",
+    "web developer",
+    "css",
+    "javascript",
+    "html",
+    "visual studio code",
+    "learn to code"
+  ],
+  "productionBaseUrl": ""
 }
