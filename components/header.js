@@ -10,7 +10,7 @@ export default function Header(props) {
     <header className="navbar">
       <script
         async
-        src="https://analytics.sepir.cloud/script.js"
+        src="https://analytics.sepiropht.me/script.js"
         data-website-id="89cab4bb-221b-47bb-991d-296ac995f56c"
       ></script>
     </header>
